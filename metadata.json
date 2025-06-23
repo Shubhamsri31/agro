@@ -1,0 +1,5 @@
+{
+  "name": "AgroSage AI Farm Advisor",
+  "description": "An AI-powered farming advisor that provides actionable recommendations based on input farm conditions, using Gemini.",
+  "requestFramePermissions": []
+}
